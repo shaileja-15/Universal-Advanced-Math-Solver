@@ -1,5 +1,5 @@
 streamlit
 sympy
-numpy
 matplotlib
-scipy
+google-generativeai
+numpy
